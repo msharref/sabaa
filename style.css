@@ -1,1 +1,49 @@
 
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+
+a {
+    text-decoration: none;
+    color: #2f5597;
+}
+
+a:hover {
+    color: #ff0000;
+}
+
+
+.contact-link {
+    font-size: 20px;
+}
+
+.nav-bar {
+    background-color: #2f5597;
+}
+
+
+.nav-item {
+    padding: 10px;
+}
+
+
+.nav-item-width {
+    width: 500px;
+}
+
+
+img {
+    max-width: 100%;
+    height: auto;
+}
